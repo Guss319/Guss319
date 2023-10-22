@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guss319
-- 👀 I’m interested in python  
+- 👀 I’m interested in python, I´m a beginner in this language 
 - 🌱 I’m currently learning python and git
 - 💞️ I´m looking to collaborate on different projects in python
 - 📫 How to reach me guss372@icloud.com
